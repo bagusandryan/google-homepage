@@ -1,0 +1,1 @@
+Getting started with The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) to refresh and update my web development skill after long break due to various projects such as HoloLens and Windows UWP app development. 
